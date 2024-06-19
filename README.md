@@ -1,0 +1,4 @@
+- 👋 Hello, I'm Pedro Passos
+- 👀 I'm interested in technology, development, automation and improving my English  
+- 🌱 I'm currently learning node js and web applications
+- ⚡ Fun fact: In my free time i like playing Valorant with my friends, riding a bike and spending time with my friends talking about something or or have a barbecue
